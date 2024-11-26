@@ -1,2 +1,4 @@
-./movies.csv
-./ratings.csv
+movies.csv
+ratings.csv
+.DS_Store
+
