@@ -2,5 +2,6 @@ movies.csv
 ratings.csv
 df_movies_final.csv
 ratings_without_timestamp.csv
+df_movies_with_score.csv
 .DS_Store
 
